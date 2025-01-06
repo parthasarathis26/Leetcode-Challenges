@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0504-base-7) |
 | [1070-convert-to-base-2](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1070-convert-to-base-2) |
+| [1635-number-of-good-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1635-number-of-good-pairs) |
 ## Array
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0561-array-partition) |
 | [0695-max-area-of-island](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
+| [1635-number-of-good-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1635-number-of-good-pairs) |
 ## Union Find
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0561-array-partition) |
+| [1635-number-of-good-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1635-number-of-good-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
