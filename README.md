@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0200-number-of-islands) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1635-number-of-good-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1635-number-of-good-pairs) |
