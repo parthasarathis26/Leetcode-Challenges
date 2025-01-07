@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0008-string-to-integer-atoi) |
 | [0415-add-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0415-add-strings) |
 | [0686-repeated-string-match](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0686-repeated-string-match) |
 ## Simulation
