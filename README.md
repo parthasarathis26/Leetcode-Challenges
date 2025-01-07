@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0415-add-strings) |
+| [0686-repeated-string-match](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0686-repeated-string-match) |
 ## Simulation
 |  |
 | ------- |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
