@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0561-array-partition) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0415-add-strings) |
 | [0686-repeated-string-match](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0686-repeated-string-match) |
 | [0763-special-binary-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0763-special-binary-string) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Simulation
 |  |
 | ------- |
