@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0415-add-strings) |
 | [0686-repeated-string-match](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0686-repeated-string-match) |
 | [0763-special-binary-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0763-special-binary-string) |
+| [2226-rings-and-rods](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2226-rings-and-rods) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Simulation
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1635-number-of-good-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1635-number-of-good-pairs) |
+| [2226-rings-and-rods](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2226-rings-and-rods) |
 ## Divide and Conquer
 |  |
 | ------- |
