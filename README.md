@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0686-repeated-string-match) |
 | [0763-special-binary-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0763-special-binary-string) |
 | [0886-score-of-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0886-score-of-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1078-remove-outermost-parentheses) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2226-rings-and-rods) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2687-lexicographically-smallest-beautiful-string) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0886-score-of-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1078-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
