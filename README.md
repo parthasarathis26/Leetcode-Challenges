@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0076-minimum-window-substring) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0886-score-of-parentheses) |
 ## Dynamic Programming
