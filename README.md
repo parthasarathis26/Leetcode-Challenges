@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0007-reverse-integer) |
 | [0415-add-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0504-base-7) |
+| [1013-fibonacci-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1070-convert-to-base-2) |
 | [1635-number-of-good-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1635-number-of-good-pairs) |
 ## Array
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
 | [0394-decode-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0763-special-binary-string) |
+| [1013-fibonacci-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -217,9 +219,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
+| [1013-fibonacci-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0076-minimum-window-substring) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
