@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2226-rings-and-rods) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Sliding Window
 |  |
