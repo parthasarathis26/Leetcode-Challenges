@@ -1,27 +1,29 @@
 class Solution {
+    bool f(string &s1, string &s2, int i, int j, int len, vector<vector<vector<int>>> &dp)
+    {
+        if (len == 1) return s1[i] == s2[j];
+        if (dp[i][j][len] != -1) return dp[i][j][len];
+        bool ans = false;
+        for (int k = 1; k < len; ++k)
+        {
+            if (f(s1, s2, i, j, k, dp) && f(s1, s2, i + k, j + k, len - k, dp))
+            {
+                ans = true;
+                break;
+            }
+            if (f(s1, s2, i + k, j, len - k, dp) && f(s1, s2, i, j + len - k, k, dp))
+            {
+                ans = true;
+                break;
+            }
+        }
+        return dp[i][j][len] = ans;
+    }
 public:
     bool isScramble(string s1, string s2) {
-        int n = s1.size();
-        vector dp(n + 1, vector(n, vector<int>(n)));
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                dp[1][i][j] = s1[i] == s2[j];
-            }
-        }
-        for (int length = 2; length <= n; length++) {
-            for (int i = 0; i < n + 1 - length; i++) {
-                for (int j = 0; j < n + 1 - length; j++) {
-                    for (int newLength = 1; newLength < length; newLength++) {
-                        const vector<int>& dp1 = dp[newLength][i];
-                        const vector<int>& dp2 =
-                            dp[length - newLength][i + newLength];
-                        dp[length][i][j] |= dp1[j] && dp2[j + newLength];
-                        dp[length][i][j] |=
-                            dp1[j + length - newLength] && dp2[j];
-                    }
-                }
-            }
-        }
-        return dp[n][0][0];
+        vector<string> v;
+        int m = s1.size();
+        vector<vector<vector<int>>> dp(m, vector<vector<int>>(m, vector<int>(m + 1, -1)));
+        return f(s1, s2, 0, 0, m, dp);        
     }
 };
