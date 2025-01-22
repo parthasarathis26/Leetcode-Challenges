@@ -1,10 +1,7 @@
 class Solution {
 public:
     int mi(int i,int j,string &s,vector<vector<int>> &dp){
-        if(i>j){
-            return 0;
-        }
-        if(i==j){
+        if(i>j||i==j){
             return 0;
         }
         if(dp[i][j]!=-1){
