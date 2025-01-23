@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
+| [0376-wiggle-subsequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0561-array-partition) |
 | [0695-max-area-of-island](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0747-min-cost-climbing-stairs) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
+| [0376-wiggle-subsequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0561-array-partition) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Sorting
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0198-house-robber) |
+| [0376-wiggle-subsequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0376-wiggle-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1013-fibonacci-number) |
