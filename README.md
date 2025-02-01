@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0215-kth-largest-element-in-an-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
+| [0139-word-break](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0214-shortest-palindrome](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0415-add-strings) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0198-house-robber) |
 | [0376-wiggle-subsequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0403-frog-jump) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1236-n-th-tribonacci-number) |
 ## Combinatorics
@@ -310,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0005-longest-palindromic-substring) |
 | [1129-longest-string-chain](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
