@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 | [1635-number-of-good-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1635-number-of-good-pairs) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3429-special-array-i](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/3429-special-array-i) |
