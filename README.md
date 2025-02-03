@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0139-word-break) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
