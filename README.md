@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Math
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Topological Sort
 |  |
