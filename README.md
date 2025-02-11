@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0054-spiral-matrix](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0063-unique-paths-ii) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
