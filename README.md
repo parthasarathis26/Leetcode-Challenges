@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0063-unique-paths-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0063-unique-paths-ii) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0139-word-break) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
 ## Rolling Hash
