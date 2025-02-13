@@ -1,30 +1,41 @@
 class Solution {
 public:
     vector<string> fullJustify(vector<string>& words, int maxWidth) {
-        vector<string> result;
-        for(int i = 0, j; i < words.size(); i = j) {
-            int width = 0;
-            for(j = i; j < words.size() && width + words[j].size() + j - i <= maxWidth; j++) {
-                width += words[j].size();
-            }
-            int space = 1, extra = 0;
-            if(j - i != 1 && j != words.size()) {
-                space = (maxWidth - width) / (j - i - 1);
-                extra = (maxWidth - width) % (j - i - 1);
+        vector<string> ans;
+        int i = 0;
+        while (i < words.size()) {
+            int j = i, l = 0;
+            while (j < words.size() && l + words[j].size() + (j - i) <= maxWidth) {
+                l += words[j].size();
+                j++;
             }
             string line = words[i];
-            for(int k = i + 1; k < j; k++) {
-                line += string(space, ' ');
-                if(extra > 0) {
-                    extra--;
-                    line += " ";
+            if (j - i > 1 && j < words.size()) {
+                int sp = maxWidth - l;
+                int diff = sp / (j - i - 1);
+                int e = sp % (j - i - 1);
+                
+                for (int k = i + 1; k < j; k++) {
+                    line += string(diff, ' ');
+                    if (e > 0) {
+                        line += ' ';
+                        e--;
+                    }
+                    line += words[k];
                 }
-                line += words[k];
+            }
+            else {
+                for (int k = i + 1; k < j; k++) {
+                    line += ' ';
+                    line += words[k];
+                }
+                line += string(maxWidth - line.size(), ' ');
             }
             
-            line += string(maxWidth - line.size(), ' ');
-            result.push_back(line);
+            ans.push_back(line);
+            i = j;
         }
-        return result;
+        
+        return ans;
     }
 };
