@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0561-array-partition) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Sorting
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2226-rings-and-rods) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [3447-clear-digits](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/3447-clear-digits) |
 ## Simulation
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
 | [1160-letter-tile-possibilities](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1078-remove-outermost-parentheses) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
