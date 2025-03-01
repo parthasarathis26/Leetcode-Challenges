@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2551-apply-operations-to-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2551-apply-operations-to-an-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/3429-special-array-i) |
 ## Union Find
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0415-add-strings) |
+| [2551-apply-operations-to-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0005-longest-palindromic-substring) |
 | [1129-longest-string-chain](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
+| [2551-apply-operations-to-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2551-apply-operations-to-an-array) |
 ## Trie
 |  |
 | ------- |
