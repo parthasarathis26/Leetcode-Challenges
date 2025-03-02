@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2551-apply-operations-to-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/3429-special-array-i) |
 ## Union Find
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2226-rings-and-rods) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0005-longest-palindromic-substring) |
 | [1129-longest-string-chain](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 | [2551-apply-operations-to-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Trie
 |  |
 | ------- |
