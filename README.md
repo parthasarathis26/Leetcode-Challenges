@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0215-kth-largest-element-in-an-array) |
+| [0303-range-sum-query-immutable](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0403-frog-jump) |
@@ -395,4 +396,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0085-maximal-rectangle) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
