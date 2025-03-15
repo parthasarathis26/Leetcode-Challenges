@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0068-text-justification) |
+| [0078-subsets](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0085-maximal-rectangle) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0216-combination-sum-iii) |
