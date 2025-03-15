@@ -8,6 +8,7 @@ public:
         if (target < 0) return;
 
         for (int i = start; i < candidates.size(); i++) {
+            if (i > start && candidates[i] == candidates[i - 1]) continue;
             curr.push_back(candidates[i]);
             backtrack(i, res, curr, candidates, target - candidates[i]);
             curr.pop_back();
