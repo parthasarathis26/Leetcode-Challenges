@@ -6,6 +6,10 @@ public:
                 res.push_back(curr);
                 return;
             }
+
+        }
+        if(t<0){
+            return;
         }
         for(int i=start;i<=9;i++){
             curr.push_back(i);
