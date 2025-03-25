@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0200-number-of-islands) |
