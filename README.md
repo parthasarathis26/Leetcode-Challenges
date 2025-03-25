@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0287-find-the-duplicate-number) |
 | [2665-minimum-time-to-repair-cars](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2665-minimum-time-to-repair-cars) |
 ## Bit Manipulation
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0216-combination-sum-iii) |
+| [0287-find-the-duplicate-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0376-wiggle-subsequence) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0005-longest-palindromic-substring) |
+| [0287-find-the-duplicate-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0287-find-the-duplicate-number) |
 | [1129-longest-string-chain](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2551-apply-operations-to-an-array) |
