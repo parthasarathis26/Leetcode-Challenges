@@ -281,12 +281,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -430,4 +432,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0303-range-sum-query-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
