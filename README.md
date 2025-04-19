@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0287-find-the-duplicate-number) |
 | [2665-minimum-time-to-repair-cars](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2665-minimum-time-to-repair-cars) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2551-apply-operations-to-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2665-minimum-time-to-repair-cars) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/3429-special-array-i) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0561-array-partition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2551-apply-operations-to-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Trie
 |  |
