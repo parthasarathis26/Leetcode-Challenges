@@ -449,4 +449,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0577-employee-bonus) |
+| [1390-average-selling-price](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
