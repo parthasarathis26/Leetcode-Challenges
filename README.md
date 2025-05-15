@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 ## Array
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [3447-clear-digits](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/3447-clear-digits) |
+| [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0062-unique-paths) |
+| [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -533,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0220-contains-duplicate-iii) |
+## Number Theory
+|  |
+| ------- |
+| [3774-check-if-digits-are-equal-in-string-after-operations-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/3774-check-if-digits-are-equal-in-string-after-operations-ii) |
 <!---LeetCode Topics End-->
