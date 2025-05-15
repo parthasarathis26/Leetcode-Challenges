@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0561-array-partition) |
 | [0695-max-area-of-island](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
+| [0699-falling-squares](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0699-falling-squares) |
 | [0747-min-cost-climbing-stairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0747-min-cost-climbing-stairs) |
 | [1031-add-to-array-form-of-integer](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1031-add-to-array-form-of-integer) |
 | [1073-number-of-enclaves](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1073-number-of-enclaves) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0220-contains-duplicate-iii) |
+| [0699-falling-squares](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0699-falling-squares) |
 ## Number Theory
 |  |
 | ------- |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0218-the-skyline-problem) |
+| [0699-falling-squares](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0699-falling-squares) |
 ## Line Sweep
 |  |
 | ------- |
