@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0224-basic-calculator) |
 | [0415-add-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1013-fibonacci-number) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0140-word-break-ii) |
 | [0214-shortest-palindrome](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0415-add-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0516-longest-palindromic-subsequence) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0763-special-binary-string) |
 | [1013-fibonacci-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1013-fibonacci-number) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0085-maximal-rectangle) |
+| [0224-basic-calculator](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0886-score-of-parentheses) |
