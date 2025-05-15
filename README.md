@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1073-number-of-enclaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1229-shortest-path-with-alternating-colors) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Math
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1073-number-of-enclaves) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1073-number-of-enclaves) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Greedy
 |  |
 | ------- |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0561-array-partition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Counting Sort
 |  |
@@ -300,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0407-trapping-rain-water-ii) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Quickselect
 |  |
 | ------- |
@@ -415,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Trie
