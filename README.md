@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0224-basic-calculator) |
+| [0282-expression-add-operators](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0282-expression-add-operators) |
 | [0415-add-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1013-fibonacci-number) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0140-word-break-ii) |
 | [0214-shortest-palindrome](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0224-basic-calculator) |
+| [0282-expression-add-operators](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0282-expression-add-operators) |
 | [0394-decode-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0415-add-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0516-longest-palindromic-subsequence) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0282-expression-add-operators) |
 | [1160-letter-tile-possibilities](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2456-construct-smallest-number-from-di-string) |
