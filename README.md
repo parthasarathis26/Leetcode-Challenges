@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0820-find-eventual-safe-states) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0403-frog-jump) |
+| [0407-trapping-rain-water-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0561-array-partition) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1073-number-of-enclaves) |
 ## Greedy
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0407-trapping-rain-water-ii) |
 ## Quickselect
 |  |
 | ------- |
