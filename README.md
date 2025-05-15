@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1031-add-to-array-form-of-integer) |
 | [1070-convert-to-base-2](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1070-convert-to-base-2) |
 | [1236-n-th-tribonacci-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1635-number-of-good-pairs) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0561-array-partition) |
 | [0695-max-area-of-island](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0747-min-cost-climbing-stairs) |
+| [1031-add-to-array-form-of-integer](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1031-add-to-array-form-of-integer) |
 | [1073-number-of-enclaves](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1073-number-of-enclaves) |
 | [1105-uncrossed-lines](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
