@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0222-count-complete-tree-nodes) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0282-expression-add-operators) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0079-word-search) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0415-add-strings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2265-partition-array-according-to-given-pivot) |
