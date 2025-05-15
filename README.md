@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0136-single-number) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0087-scramble-string) |
+| [0118-pascals-triangle](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0140-word-break-ii) |
