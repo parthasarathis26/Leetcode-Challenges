@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0007-reverse-integer) |
+| [0060-permutation-sequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0415-add-strings) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0060-permutation-sequence) |
 | [0394-decode-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0763-special-binary-string) |
 | [1013-fibonacci-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1013-fibonacci-number) |
