@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0216-combination-sum-iii) |
 | [0220-contains-duplicate-iii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0220-contains-duplicate-iii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1073-number-of-enclaves) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0282-expression-add-operators) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0282-expression-add-operators) |
 | [1160-letter-tile-possibilities](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1160-letter-tile-possibilities) |
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0212-word-search-ii) |
 ## Graph
 |  |
 | ------- |
