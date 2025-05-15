@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1073-number-of-enclaves) |
 | [1105-uncrossed-lines](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1635-number-of-good-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1635-number-of-good-pairs) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1250-longest-common-subsequence) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1517-restore-the-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1517-restore-the-array) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1160-letter-tile-possibilities) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1433-encrypt-and-decrypt-strings) |
 | [1635-number-of-good-pairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0212-word-search-ii) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1433-encrypt-and-decrypt-strings) |
 ## Graph
 |  |
 | ------- |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0303-range-sum-query-immutable) |
+| [1433-encrypt-and-decrypt-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1433-encrypt-and-decrypt-strings) |
 ## Prefix Sum
 |  |
 | ------- |
