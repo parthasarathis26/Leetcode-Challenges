@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0040-combination-sum-ii) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0287-find-the-duplicate-number) |
 | [1129-longest-string-chain](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1129-longest-string-chain) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2265-partition-array-according-to-given-pivot) |
