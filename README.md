@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0220-contains-duplicate-iii) |
+| [0242-valid-anagram](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0561-array-partition) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0282-expression-add-operators) |
 | [0383-ransom-note](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0394-decode-string) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0140-word-break-ii) |
+| [0242-valid-anagram](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0442-find-all-duplicates-in-an-array) |
