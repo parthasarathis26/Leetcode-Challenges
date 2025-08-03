@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2350-find-closest-number-to-zero](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2350-find-closest-number-to-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2665-minimum-time-to-repair-cars) |
