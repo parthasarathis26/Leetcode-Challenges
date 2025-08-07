@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1942-primary-department-for-each-employee) |
+| [2057-count-salary-categories](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2057-count-salary-categories) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Ordered Set
 |  |
