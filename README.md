@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0220-contains-duplicate-iii) |
+| [0228-summary-ranges](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0329-longest-increasing-path-in-a-matrix) |
