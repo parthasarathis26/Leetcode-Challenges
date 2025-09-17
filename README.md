@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [0699-falling-squares](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0699-falling-squares) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0682-baseball-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/3447-clear-digits) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0682-baseball-game) |
 | [0886-score-of-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1078-remove-outermost-parentheses) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2456-construct-smallest-number-from-di-string) |
