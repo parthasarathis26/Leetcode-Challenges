@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0695-max-area-of-island) |
 | [0699-falling-squares](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0699-falling-squares) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0739-daily-temperatures](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0747-min-cost-climbing-stairs) |
 | [1019-squares-of-a-sorted-array](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1031-add-to-array-form-of-integer) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0739-daily-temperatures) |
 | [0886-score-of-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/1078-remove-outermost-parentheses) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/parthasarathis26/Leetcode-Challenges/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
